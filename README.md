@@ -14,7 +14,7 @@ I wrote this script just as a hobby
 
 **Step3**: Download or clone this repository
 
-**Step4**:Now for the final step, put the configure.py and write.py inside that folder and run the configure.py and follow the prompts
+**Step4**:Now for the final step, put the configure.py, mksq.pt and write.py inside that folder and run the configure.py and follow the prompts
 
 **Step5**: Once you are done with the configure.py script, you can enter the chroot environment with "sudo chroot . bash"
 
