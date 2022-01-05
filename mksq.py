@@ -1,3 +1,8 @@
+'''
+Author: Jay
+Date pubished: 5th January 2022
+Purpose: Automated script to squash the reconfigured filesystem of Ubuntu ISO to allow the user boot in his/her newly customized Ubuntu OS
+'''
 import os
 from write import write
 
