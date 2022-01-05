@@ -1,3 +1,8 @@
+'''
+Author: Jay
+Date pubished: 5th January 2022
+Purpose: Automated script to unsquash the filesystem of Ubuntu ISO to allow chroot access
+'''
 import os
 from write import write
 import time
@@ -13,21 +18,6 @@ def listToString(s):
 write("Welcome to the Builder\n")
 isoname = []
 chosenone = []
-
-
-def askuser1(yon,name,exts):
-    if "yes" or "YES" or "Yes" or "y" or "Y" in yon:
-        write("\nproceeding with " + name + exts + "\n" )
-        res = name + exts
-        chosenone.append(res)
-        run()
-
-    elif "no" or "No" or "NO" or "n" or "N" in yon:
-        write("please provide the name of the desired iso image :))\n")
-        diso = input("Enter name: ")
-        write("proceeding with " + diso + "\n")
-        chosenone.append(diso)
-        run()
 
 
 def checkiso():
