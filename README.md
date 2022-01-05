@@ -16,7 +16,7 @@ wrote this script just as a hobby
 
 **Step6**: After you are done configuring the filesystem, exit and run mksq.py to squash the filesystem again and put it inside the appropriate folder
 
-**Step**: Copy all the extracted files to a pendrive or any bootable device and boot in your custom configured ubuntu os :D
+**Step7**: Now for the final step copy all the extracted files to a pendrive or any bootable device and boot in your custom configured ubuntu os :D
 
 
 
