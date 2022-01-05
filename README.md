@@ -1,4 +1,4 @@
-A basic script to allow you to chroot inside any stock ubuntu ISO instead of doing the samething manually or installing CUBIC software
+A basic script to allow you to chroot inside any stock ubuntu ISO instead of doing the same thing manually or installing CUBIC software
 wrote this script just as a hobby
 
 **Make sure the following packages are installed for a conflict free script run**:
