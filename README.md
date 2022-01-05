@@ -1,5 +1,5 @@
-A basic script to allow you to chroot inside any stock ubuntu ISO instead of doing the same thing manually or installing CUBIC software
-wrote this script just as a hobby
+A basic script to allow you to chroot inside any stock ubuntu ISO instead of doing the same thing manually or installing CUBIC software </br>
+I wrote this script just as a hobby
 
 **Make sure the following packages are installed for a conflict free script run**:
 1. 7zip (sudo apt install p7zip-full)
